@@ -6,6 +6,7 @@
 //  Copyright (c) 2012 __MyCompanyName__. All rights reserved.
 //
 
+// Test App to read JSON data and present in table (modal/pop over)
 // * Create webview, load the fixed content.
 // * Add 2 menu items for the text selection
 // * Look up the JSON (placeholder) to retrieve related text for the selection
